@@ -3,7 +3,7 @@
 |# Günler | Başlıklar                                                    |
 |------|:---------------------------------------------------------:|
 | 01  |  [Başlarken](./okubeni.md)|
-| 02  |  [Değişkenler, Built-in Functions](./02_Day_Variables_builtin_functions/02_variables_builtin_functions.md)|
+| 02  |  [Değişkenler, Built-in Functions](./Gun_02/degiskenler-yerlesik-islevler.md)|
 | 03  |  [Operators](./03_Day_Operators/03_operators.md)|
 | 04  |  [Strings](./04_Day_Strings/04_strings.md)|
 | 05  |  [Lists](./05_Day_Lists/05_lists.md)|
@@ -449,4 +449,4 @@ Python dosyasını çalıştırmak için aşağıdaki resmi kontrol edin. Python
 
 🎉 TEBRİKLER ! 🎉
 
-[2.Gün >>](./02_Day_Variables_builtin_functions/02_variables_builtin_functions.md)
+[2.Gün >>](./Gun_02/degiskenler-yerlesik-islevler.md)
